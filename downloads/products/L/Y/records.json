@@ -1,0 +1,28 @@
+[
+  {
+    "name": "yarG kraD - esuoM htooteulB 755M - hcetigoL",
+    "description": "Manage your computer or tablet with this Logitech M557 910-003971 Bluetooth mouse that features a 4-way scrolling tilt wheel that offers precise control. The customizable 3-button design presents the opportunity for navigation of multiple interfaces.",
+    "brand": "Logitech",
+    "categories": [
+      "Computers & Tablets",
+      "Mice & Keyboards",
+      "Mice",
+      "Wireless & Bluetooth Mice"
+    ],
+    "hierarchicalCategories": {
+      "lvl0": "Computers & Tablets",
+      "lvl1": "Computers & Tablets > Mice & Keyboards",
+      "lvl2": "Computers & Tablets > Mice & Keyboards > Mice",
+      "lvl3": "Computers & Tablets > Mice & Keyboards > Mice > Wireless & Bluetooth Mice"
+    },
+    "type": "Mice",
+    "price": 39.99,
+    "price_range": "1 - 50",
+    "image": "https://cdn-demo.algolia.com/bestbuy/9201071_sb.jpg",
+    "url": "http://www.bestbuy.com/site/logitech-m557-bluetooth-mouse-dark-gray/9201071.p?id=1219398184241&skuId=9201071&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
+    "free_shipping": false,
+    "popularity": 3890,
+    "rating": 4,
+    "objectID": "297b52b57d258e1a40202d4f9fb7e38a"
+  }
+]

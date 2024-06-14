@@ -1,0 +1,26 @@
+[
+  {
+    "name": "72-9301 - Speaker Wire Harness Adapter for Most Plymouth, Dodge and Mitsubishi Vehicles - Multi",
+    "description": "Easily install your aftermarket speakers in your vehicle with this speaker wire harness adapter.",
+    "brand": "72-9301",
+    "categories": [
+      "Car Electronics & GPS",
+      "Deck Installation Parts",
+      "Antennas & Adapters"
+    ],
+    "hierarchicalCategories": {
+      "lvl0": "Car Electronics & GPS",
+      "lvl1": "Car Electronics & GPS > Deck Installation Parts",
+      "lvl2": "Car Electronics & GPS > Deck Installation Parts > Antennas & Adapters"
+    },
+    "type": "Speaker harness",
+    "price": 14.99,
+    "price_range": "1 - 50",
+    "image": "https://cdn-demo.algolia.com/bestbuy/2206525_rb.jpg",
+    "url": "http://www.bestbuy.com/site/72-9301-speaker-wire-harness-adapter-for-most-plymouth-dodge-and-mitsubishi-vehicles-multi/2206525.p?id=1051826167289&skuId=2206525&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
+    "free_shipping": false,
+    "popularity": 9984,
+    "rating": 1,
+    "objectID": "6cdd53843498f92890544667809f1595"
+  }
+]

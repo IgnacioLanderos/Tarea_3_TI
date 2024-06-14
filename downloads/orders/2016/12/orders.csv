@@ -1,0 +1,2 @@
+order_id;customer_id;quantity;price_MRP;payment;timestamp;rating;product_category;product_id;payment_type;order_status;product_weight_g;product_length_cm;product_height_cm;product_width_cm;customer_city;customer_state;seller_id;seller_city;seller_state;payment_installments
+bd50a7fe9fd97ea4b7663031a319e150;0975c3cf2e418ebfa5d1191a2dffd59d;1;10,9;19,62;23-12-2016 23:16;5;fashion_bags_accessories;f5d8f4fbc70ca2a0038b9a0010ed5cb0;credit_card;delivered;200;16;2;11;curitiba;PR;48efc9d94a9834137efd9ea76b065a38;curitiba;PR;1

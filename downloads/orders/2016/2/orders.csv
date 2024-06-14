@@ -1,0 +1,2 @@
+order_id;customer_id;quantity;price_MRP;payment;timestamp;rating;product_category;product_id;payment_type;order_status;product_weight_g;product_length_cm;product_height_cm;product_width_cm;customer_city;customer_state;seller_id;seller_city;seller_state;payment_installments
+71303d7e93b399f5bcd537d124c0bcfa;b106b360fe2ef8849fbbd056f777b4d5;1;100;109,34;10-02-2016 22:07;1;baby;d2998d7ced12f83f9b832f33cf6507b6;credit_card;canceled;500;18;18;18;sao paulo;SP;25e6ffe976bd75618accfe16cefcbd0d;sao paulo;SP;1

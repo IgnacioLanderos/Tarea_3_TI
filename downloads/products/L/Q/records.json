@@ -1,0 +1,24 @@
+[
+  {
+    "name": "QardioArm - Wireless Blood Pressure Monitor - White",
+    "description": "Stay on top of your health with this QardioArm A100 blood pressure monitor that tracks your blood pressure and heart rate, so you can easily determine your results. The automatic inflations ensures simple, comfortable use.",
+    "brand": "QardioArm",
+    "categories": [
+      "Health, Fitness & Beauty",
+      "Blood Pressure Monitors"
+    ],
+    "hierarchicalCategories": {
+      "lvl0": "Health, Fitness & Beauty",
+      "lvl1": "Health, Fitness & Beauty > Blood Pressure Monitors"
+    },
+    "type": "Monitoring devices",
+    "price": 99.99,
+    "price_range": "50 - 100",
+    "image": "https://cdn-demo.algolia.com/bestbuy/9790101_sb.jpg",
+    "url": "http://www.bestbuy.com/site/qardioarm-wireless-blood-pressure-monitor-white/9790101.p?id=1219435652265&skuId=9790101&cmp=RMX&ky=1uWSHMdQqBeVJB9cXgEke60s5EjfS6M1W",
+    "free_shipping": true,
+    "popularity": 1691,
+    "rating": 1,
+    "objectID": "386eebb43722ab502f04f7900bd2451b"
+  }
+]
